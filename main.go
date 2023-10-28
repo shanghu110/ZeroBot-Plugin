@@ -195,7 +195,7 @@ import (
 	// -----------------------以下为内置依赖，勿动------------------------ //
 	"github.com/FloatTech/floatbox/process"
 	"github.com/sirupsen/logrus"
-	zero "github.com/wdvxdr1123/ZeroBot"
+	"github.com/wdvxdr1123/ZeroBot"
 	"github.com/wdvxdr1123/ZeroBot/driver"
 	"github.com/wdvxdr1123/ZeroBot/message"
 
